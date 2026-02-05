@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-selfcheck.json
+
+# Environment
+.env
+
+# Logs
+/AI_Employee_Vault/Logs/
+
+
+
+.DS_Store
+.obsidian/
